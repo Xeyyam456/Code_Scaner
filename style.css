@@ -48,7 +48,7 @@ input::placeholder {
 }
 
 input:-ms-input-placeholder {
-	color: #808080;
+	color: #a09e9e;
 }
 
 input::-ms-input-placeholder {
